@@ -1,0 +1,68 @@
+
+===== Student Records Management =====
+1. Add Student
+2. Display Students
+3. Search Student (Linear Search)
+4. Update Student Marks
+5. Delete Student
+6. Sort Students by Marks
+7. Binary Search Student
+8. Exit
+Enter choice: 1
+Enter Roll No: 101
+Enter Name: Aryan
+Enter Marks: 88.5
+Student added successfully!
+
+Enter choice: 1
+Enter Roll No: 102
+Enter Name: Sneha
+Enter Marks: 92.0
+Student added successfully!
+
+Enter choice: 1
+Enter Roll No: 103
+Enter Name: Rahul
+Enter Marks: 76.5
+Student added successfully!
+
+Enter choice: 2
+Student Records:
+Roll No: 101, Name: Aryan, Marks: 88.50
+Roll No: 102, Name: Sneha, Marks: 92.00
+Roll No: 103, Name: Rahul, Marks: 76.50
+
+Enter choice: 3
+Enter Roll No to search: 102
+Student Found: Sneha with Marks: 92.00
+
+Enter choice: 4
+Enter Roll No to update: 103
+Are you sure you want to update marks for Rahul? (y/n): y
+Enter new Marks: 80.0
+Marks updated successfully.
+
+Enter choice: 5
+Enter Roll No to delete: 101
+Are you sure you want to delete student Aryan? (y/n): y
+Student deleted successfully.
+
+Enter choice: 2
+Student Records:
+Roll No: 102, Name: Sneha, Marks: 92.00
+Roll No: 103, Name: Rahul, Marks: 80.00
+
+Enter choice: 6
+Students sorted by Marks (High to Low)!
+
+Enter choice: 2
+Student Records:
+Roll No: 102, Name: Sneha, Marks: 92.00
+Roll No: 103, Name: Rahul, Marks: 80.00
+
+Enter choice: 7
+Enter Roll No to search (Binary Search): 103
+Student Found: Rahul with Marks: 80.00
+
+Enter choice: 8
+Exiting...
